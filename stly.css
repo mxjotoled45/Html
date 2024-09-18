@@ -5,7 +5,7 @@ body {
     color: #333333; /* El color del texto*/ 
 }
 h1 {
-    color: #00a800; /* El color de la cabecera */
+    color: #8B5A2B; /* El color de la cabecera */
     font-size: 24px; /* El tamaño de la fuente de la cabecera */
-    font-family: Georgia, serif; /* La familia tipográfica utilizada en la cabecera */
+    font-family: Arial, serif; /* La familia tipográfica utilizada en la cabecera */
 }
